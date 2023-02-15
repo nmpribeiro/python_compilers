@@ -27,5 +27,5 @@ Browse to [localhost:3000/counter.html](http://localhost:3000/counter.html) (you
 
 ## Resources
 
-[Let's build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
-[Let's build an interpreter in python from scratch](https://python.plainenglish.io/lets-build-an-interpreter-in-python-from-scratch-833e9929bbb8)
+* [Let's build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
+* [Let's build an interpreter in python from scratch](https://python.plainenglish.io/lets-build-an-interpreter-in-python-from-scratch-833e9929bbb8)
